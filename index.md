@@ -23,11 +23,10 @@ git add
 1. [FirstLink](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#lists)
 2. [SecondLink](https://code.visualstudio.com/docs/sourcecontrol/overview#_git-support)
 
-## List of Tasks for this assignment
-- [x] Create a github repository
-- [x] Clone your repository
-- [x] Add some files
-- [x] Stage and commit
+## My bucket list
+- [x] Travel to switzerland
+- [ ] Travel to japan with my friends
+- [x] Fishing in the sea
 
 
 Click [this link](#documentary) to go to the top of the page.
