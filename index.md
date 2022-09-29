@@ -1,7 +1,5 @@
 # Documentary
 
-Click [thislink](##Who-am-I) to go to Who am I section.
-
 ## Pictures
 **Command Line Images**
 ![Command Line Image](images/cmndline1.png)
@@ -41,5 +39,5 @@ Useful Links:
 - [x] Stage and commit
 
 
-
+Click [this link](#documentary) to go to the top of the page.
 
