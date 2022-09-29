@@ -1,6 +1,6 @@
 # Documentary
 
-Click [this link] (##Useful websites for this assignment) to go to useful websites
+Click [this link] (##Useful-websites-for-this-assignment) to go to useful websites
 
 ## Pictures
 **Command Line Images**
