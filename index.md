@@ -1,6 +1,6 @@
 # Documentary
 
-Click [thislink] (##Who-am-I) to go to Who am I section.
+Click [thislink](##Who-am-I) to go to Who am I section.
 
 ## Pictures
 **Command Line Images**
@@ -29,12 +29,10 @@ git commit
 git add
 ```
 
-[FirstLink] (https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#lists)
-
 ## Useful websites for this assignment
 Useful Links:
-1. [FirstLink] (https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#lists)
-2. [SecondLink] (https://code.visualstudio.com/docs/sourcecontrol/overview#_git-support)
+1. [FirstLink](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#lists)
+2. [SecondLink](https://code.visualstudio.com/docs/sourcecontrol/overview#_git-support)
 
 ## List of Tasks for this assignment
 - [x] Create a github repository
