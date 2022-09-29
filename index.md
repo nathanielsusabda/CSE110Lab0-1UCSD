@@ -28,6 +28,8 @@ git add
 - [ ] Travel to japan with my friends
 - [x] Fishing in the sea
 
+Here is one of my favorite picture taken at Birch Aquarium [image](images/favPict.jpg)
+
 
 Click [this link](#documentary) to go to the top of the page.
 
