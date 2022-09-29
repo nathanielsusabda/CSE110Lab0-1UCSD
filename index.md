@@ -1,6 +1,6 @@
 # Documentary
 
-Click [this link] (#Who-am-I) to go to useful websites
+Click [this link] (#Who-am-I) to go to Who am I section.
 
 ## Pictures
 **Command Line Images**
